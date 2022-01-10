@@ -11,7 +11,7 @@ Bu Sayfa İçerisinde
 * Duyurular
 Paylaşılmaktadır.
 
-Sayfa yönetimi [Dr. Alaettin UÇAN](aucan.github.io) tarafından yapılmaktadır.
+Sayfa yönetimi [Dr. Alaettin UÇAN](https://aucan.github.io/) tarafından yapılmaktadır.
 
 
 
